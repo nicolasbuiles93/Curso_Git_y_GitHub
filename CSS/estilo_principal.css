@@ -29,3 +29,11 @@ table {
     padding: 20px;
     border: 1px solid purple;
   }
+
+  h1 {
+  color: #6c2eb9;
+  font-weight: normal;
+  font-size: 30px;
+  font-family: Arial;
+  text-transform: uppercase;
+  }
